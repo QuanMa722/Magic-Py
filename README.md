@@ -1,1 +1,4 @@
-# magic-py
+***
+
+# Record of learning python.
+***
