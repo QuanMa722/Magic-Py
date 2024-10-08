@@ -1,4 +1,4 @@
 ***
 
-# Record of learning python.
+# import this
 ***
